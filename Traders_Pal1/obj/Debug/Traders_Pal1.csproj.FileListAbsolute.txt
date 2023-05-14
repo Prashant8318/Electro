@@ -35,3 +35,40 @@ C:\Users\Prashant\Documents\Visual Studio 2015\Projects\Traders_Pal1\Traders_Pal
 C:\Users\Prashant\Documents\Visual Studio 2015\Projects\Traders_Pal1\Traders_Pal1\obj\Debug\Traders_Pal1.dll
 C:\Users\Prashant\Documents\Visual Studio 2015\Projects\Traders_Pal1\Traders_Pal1\obj\Debug\Traders_Pal1.pdb
 C:\Users\Prashant\Documents\Visual Studio 2015\Projects\Traders_Pal1\Traders_Pal1\obj\Debug\Traders_Pal1.csprojResolveAssemblyReference.cache
+E:\Local\Electro\Traders_Pal1\bin\roslyn\csc.exe
+E:\Local\Electro\Traders_Pal1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Local\Electro\Traders_Pal1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Local\Electro\Traders_Pal1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Local\Electro\Traders_Pal1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Local\Electro\Traders_Pal1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Local\Electro\Traders_Pal1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Local\Electro\Traders_Pal1\bin\roslyn\System.Collections.Immutable.dll
+E:\Local\Electro\Traders_Pal1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Local\Electro\Traders_Pal1\bin\roslyn\vbc.exe
+E:\Local\Electro\Traders_Pal1\bin\roslyn\VBCSCompiler.exe
+E:\Local\Electro\Traders_Pal1\bin\roslyn\VBCSCompiler.exe.config
+E:\Local\Electro\Traders_Pal1\bin\Traders_Pal1.dll.config
+E:\Local\Electro\Traders_Pal1\bin\Traders_Pal1.dll
+E:\Local\Electro\Traders_Pal1\bin\Traders_Pal1.pdb
+E:\Local\Electro\Traders_Pal1\bin\EntityFramework.dll
+E:\Local\Electro\Traders_Pal1\bin\EntityFramework.SqlServer.dll
+E:\Local\Electro\Traders_Pal1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Local\Electro\Traders_Pal1\bin\Microsoft.Web.Infrastructure.dll
+E:\Local\Electro\Traders_Pal1\bin\System.Web.Helpers.dll
+E:\Local\Electro\Traders_Pal1\bin\System.Web.Mvc.dll
+E:\Local\Electro\Traders_Pal1\bin\System.Web.Razor.dll
+E:\Local\Electro\Traders_Pal1\bin\System.Web.Webpages.Deployment.dll
+E:\Local\Electro\Traders_Pal1\bin\System.Web.Webpages.dll
+E:\Local\Electro\Traders_Pal1\bin\System.Web.Webpages.Razor.dll
+E:\Local\Electro\Traders_Pal1\bin\EntityFramework.xml
+E:\Local\Electro\Traders_Pal1\bin\EntityFramework.SqlServer.xml
+E:\Local\Electro\Traders_Pal1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Local\Electro\Traders_Pal1\bin\System.Web.Razor.xml
+E:\Local\Electro\Traders_Pal1\bin\System.Web.Webpages.xml
+E:\Local\Electro\Traders_Pal1\bin\System.Web.Webpages.Deployment.xml
+E:\Local\Electro\Traders_Pal1\bin\System.Web.Webpages.Razor.xml
+E:\Local\Electro\Traders_Pal1\bin\System.Web.Helpers.xml
+E:\Local\Electro\Traders_Pal1\bin\System.Web.Mvc.xml
+E:\Local\Electro\Traders_Pal1\obj\Debug\Traders_Pal1.csprojResolveAssemblyReference.cache
+E:\Local\Electro\Traders_Pal1\obj\Debug\Traders_Pal1.dll
+E:\Local\Electro\Traders_Pal1\obj\Debug\Traders_Pal1.pdb
